@@ -1,0 +1,1 @@
+This repository is for understanding Authorization and security on different levels such as encryption, hashing etc
